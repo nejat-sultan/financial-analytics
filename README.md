@@ -32,7 +32,7 @@ spacy
 gensim
 jupyterlab
 pytest
-These dependencies are listed in the requirements.txt file and can be installed easily.
+These dependencies are listed in the requirements.txt file and can be installed easily using pip install -r requirements.txt
 
 # Installation
 
