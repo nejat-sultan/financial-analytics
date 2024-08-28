@@ -8,6 +8,4 @@ seaborn
 requests
 pytest 
 
-TA-Lib 
-pynance
 
