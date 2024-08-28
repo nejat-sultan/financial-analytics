@@ -6,4 +6,5 @@ transformers
 matplotlib
 seaborn
 requests
+pytest 
 
