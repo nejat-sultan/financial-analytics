@@ -8,8 +8,9 @@ The project analyzes financial news headlines and articles, with the following g
 - Topic Modeling: Identify common topics and keywords in news articles.
 - Time Series Analysis: Investigate trends in publication frequency over time.
 - Publisher Analysis: Identify which publishers contribute the most articles and their impact on sentiment.
+- Quantitative Analysis using Pynance and TA-Lib: Analyze stock price data using technical indicators for financial insights.
 
-The analysis is conducted using Python and relevant libraries for natural language processing (NLP) and data analysis.
+The analysis is conducted using Python and relevant libraries for natural language processing (NLP), data analysis, and financial market indicators.
 
 # Features
 
@@ -18,6 +19,7 @@ The analysis is conducted using Python and relevant libraries for natural langua
 - Topic Modeling : Extracts common topics from articles using NLP techniques.
 - Time Series Analysis : Analyzes trends in publication dates over time.
 - Publisher Analysis : Determines the most active publishers and their focus areas.
+- Quantitative Financial Analysis: Load and prepare stock price data into a pandas DataFrame (Open, High, Low, Close, Volume), Applied technical indicators such as Moving Averages, RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence) using TA-Lib for stock trend analysis.
 
 # Requirements
 
@@ -32,6 +34,8 @@ spacy
 gensim
 jupyterlab
 pytest
+TA-Lib
+pynance
 These dependencies are listed in the requirements.txt file and can be installed easily using pip install -r requirements.txt
 
 # Installation
