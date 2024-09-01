@@ -16,3 +16,4 @@ This folder contains Jupyter notebooks used for data analysis and EDA. On this p
     * Loaded and prepared stock price data into a pandas DataFrame with columns such as Open, High, Low, Close, and Volume.
     * Applied Financial Indicators:
         - Used TA-Lib to calculate various technical indicators like Moving Averages, RSI (Relative Strength Index), MACD (Moving Average Convergence Divergence)
+        - visualize them using line chart
