@@ -19,7 +19,11 @@ The analysis is conducted using Python and relevant libraries for natural langua
 - Topic Modeling : Extracts common topics from articles using NLP techniques.
 - Time Series Analysis : Analyzes trends in publication dates over time.
 - Publisher Analysis : Determines the most active publishers and their focus areas.
+
 - Quantitative Financial Analysis: Load and prepare stock price data into a pandas DataFrame (Open, High, Low, Close, Volume), Applied technical indicators such as Moving Averages, RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence) using TA-Lib for stock trend analysis.
+- Used PyNance for Financial Metrics
+- Visualized the technical indicators
+
 
 # Requirements
 
