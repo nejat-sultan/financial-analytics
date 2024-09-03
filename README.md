@@ -3,7 +3,6 @@
 This project is designed to perform Exploratory Data Analysis (EDA) on news articles related to financial markets. It aims to extract insights from textual data, including sentiment analysis, topic modeling, and trends over time, which can be valuable for traders and analysts. In addition, the project investigates the correlation between news sentiment and stock price movements to identify potential relationships between market news and stock performance.
 
 The project analyzes financial news headlines and articles, with the following goals:
-
 - Descriptive Statistics: Analyze article length, publisher activity, and publication dates.
 - Sentiment Analysis: Assess the sentiment of news headlines (positive, negative, neutral).
 - Topic Modeling: Identify common topics and keywords in news articles.
@@ -15,6 +14,7 @@ The project analyzes financial news headlines and articles, with the following g
 The analysis is conducted using Python and relevant libraries for natural language processing (NLP), data analysis, and financial market indicators.
 
 # Features
+
 - Descriptive Statistics: Summarizes headline lengths, articles per publisher, and publication dates.
 - Sentiment Analysis: Detects positive, negative, or neutral sentiment in news headlines.
 - Topic Modeling: Extracts common topics from articles using NLP techniques.
